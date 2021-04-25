@@ -25,9 +25,7 @@ public class Scammers : MonoBehaviour//ChatMenu
 
     public IEnumerator startScamin()
     {
-        yield return new WaitForSeconds(60);
-
+        yield return new WaitForSeconds(30);
         Generate();
-    
     }
 }
