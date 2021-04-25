@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 0ff047915e637ec4ba507cd6f00e9324
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7492666946129413963
+    second: Security_2_0
+  - first:
+      213: 8494182671666698815
+    second: Security_2_1
+  - first:
+      213: 2354192638557500072
+    second: Security_2_2
+  - first:
+      213: 8316448432725054309
+    second: Security_2_3
+  - first:
+      213: -6834501916555228754
+    second: Security_2_4
+  - first:
+      213: -5689102597217265211
+    second: Security_2_5
+  - first:
+      213: 8744054392695877450
+    second: Security_2_6
+  - first:
+      213: -3312124056582453853
+    second: Security_2_7
+  - first:
+      213: -144959370094768653
+    second: Security_2_8
+  - first:
+      213: -7850426424139046568
+    second: Security_2_9
+  - first:
+      213: -6135881457611160714
+    second: Security_2_10
+  - first:
+      213: -7507105074016666219
+    second: Security_2_11
+  - first:
+      213: 5226001296120395498
+    second: Security_2_12
+  - first:
+      213: -5164491984875790096
+    second: Security_2_13
+  - first:
+      213: 4037932062144249116
+    second: Security_2_14
+  - first:
+      213: -3337910026641796865
+    second: Security_2_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Security_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1497.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ca50c3ec4bf760800000000000000
+      internalID: 7492666946129413963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1497.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad8f1c22661e570800000000000000
+      internalID: 8494182671666698815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1497.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a23f025bb5cba020800000000000000
+      internalID: 2354192638557500072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1497.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635e6189c5f96370800000000000000
+      internalID: 8316448432725054309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9cff6b7b8f621a0800000000000000
+      internalID: -6834501916555228754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 998.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9dc1a745f3c01b0800000000000000
+      internalID: -5689102597217265211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 998.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe455642f195970800000000000000
+      internalID: 8744054392695877450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 998.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5806b08b8f802d0800000000000000
+      internalID: -3312124056582453853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd03ae88300dfdf0800000000000000
+      internalID: -144959370094768653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 499.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512ad5b2cead0390800000000000000
+      internalID: -7850426424139046568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 499.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734e27d258f8daa0800000000000000
+      internalID: -6135881457611160714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_11
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 499.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d34b3a5b761d790800000000000000
+      internalID: -7507105074016666219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6bcf28d7c768840800000000000000
+      internalID: 5226001296120395498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0602407e90458b0800000000000000
+      internalID: -5164491984875790096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db44f01dd990830800000000000000
+      internalID: 4037932062144249116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Security_2_15
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0.75
+        width: 333.5
+        height: 499.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01dc9048c5da1d0800000000000000
+      internalID: -3337910026641796865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
