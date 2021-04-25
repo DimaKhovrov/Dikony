@@ -27,6 +27,10 @@ public class SpawnProduct : MonoBehaviour
 
             temp.GetComponent<Product>().Price = priceAddEn[i].x;
             temp.GetComponent<Product>().AddEn = priceAddEn[i].y;
+
+            temp.GetComponent<Product>().textPrice.GetComponent<Text>().text= priceAddEn[i].x.ToString();
+
+            temp.GetComponent<Product>().textEnergy.GetComponent<Text>().text = priceAddEn[i].y.ToString();
         }
     }
 }
