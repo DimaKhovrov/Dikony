@@ -171,7 +171,7 @@ LineRenderer:
   - {x: 500, y: 1, z: 90}
   m_Parameters:
     serializedVersion: 3
-    widthMultiplier: 0.01
+    widthMultiplier: 0.03
     widthCurve:
       serializedVersion: 2
       m_Curve:

@@ -64,6 +64,11 @@ public class Buttons : MonoBehaviour
         StartCoroutine(Animation(direction, windows[2]));
     }
 
+    public void BankButt(int direction)
+    {
+        StartCoroutine(Animation(direction, windows[3]));
+    }
+
     public IEnumerator Animation(int direction,GameObject window) //1 если появляется иначе -1
     {
         if (direction == 1)
